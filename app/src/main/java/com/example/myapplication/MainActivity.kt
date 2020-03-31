@@ -42,4 +42,5 @@ class MainActivity : AppCompatActivity() {
         super.onDestroy()
         Log.e(TAG,"Sungmin's onDestroy() called! Baam!");
     }
+
 }
